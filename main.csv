@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,product1,product2,product3,order_date,state,city,Sales,Discount,Profit
+OD0001,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,1254,0.12,401.28
+OD0002,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai,749,0.18,149.8
+OD0003,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem,2360,0.21,165.2
+OD0004,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai,896,0.25,89.6
+OD0005,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai,2355,0.26,918.45
+OD0006,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem,2305,0.26,322.7
+OD0007,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore,826,0.33,346.92
+OD0008,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,1847,0.32,147.76
+OD0009,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,791,0.23,181.93
+OD0010,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai,1795,0.27,484.65
+OD0011,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai,1903,0.13,437.69
+OD0012,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,701,0.1,308.44
+OD0013,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,1659,0.19,315.21
+OD0014,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai,1277,0.25,63.85
+OD0015,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli,831,0.22,207.75
+OD0016,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai,1440,0.11,100.8
+OD0017,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,1678,0.28,318.82
+OD0018,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai,1617,0.19,113.19
+OD0019,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai,1757,0.35,386.54
+OD0020,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore,692,0.29,159.16
+OD0021,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,522,0.19,208.8
+OD0022,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,948,0.13,47.4
+OD0023,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli,707,0.34,148.47
+OD0024,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,969,0.29,77.52
+OD0025,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,1100,0.11,495
+OD0026,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,2022,0.11,202.2
+OD0027,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,541,0.12,43.28
+OD0028,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,979,0.22,401.39
+OD0029,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore,1988,0.22,874.72
+OD0030,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,989,0.17,69.23
+OD0031,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,1845,0.24,166.05
+OD0032,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli,1400,0.11,420
+OD0033,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem,2163,0.26,670.53
+OD0034,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,1689,0.34,337.8
+OD0035,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem,809,0.32,80.9
+OD0036,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,1265,0.22,569.25
+OD0037,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem,934,0.35,56.04
+OD0038,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai,1354,0.16,446.82
+OD0039,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai,1751,0.19,280.16
+OD0040,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli,2045,0.23,879.35
+OD0041,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai,660,0.19,92.4
+OD0042,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem,1868,0.18,616.44
+OD0043,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli,1017,0.25,345.78
+OD0044,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai,2311,0.2,1039.95
+OD0045,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore,1663,0.17,731.72
+OD0046,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem,1420,0.19,355
+OD0047,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,1415,0.31,509.4
+OD0048,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem,1488,0.3,610.08
+OD0049,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,726,0.18,43.56
+OD0050,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli,1259,0.15,415.47
+OD0051,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore,902,0.29,153.34
+OD0052,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai,2306,0.3,553.44
+OD0053,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,1417,0.19,99.19
+OD0054,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,627,0.33,181.83
+OD0055,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,760,0.28,60.8
+OD0056,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,2350,0.15,611
+OD0057,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli,1179,0.34,271.17
+OD0058,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1624,0.35,194.88
+OD0059,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,1316,0.35,421.12
+OD0060,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,2121,0.12,678.72
+OD0061,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,1428,0.28,271.32
+OD0062,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,706,0.33,289.46
+OD0063,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,921,0.25,184.2
+OD0064,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,1741,0.31,661.58
+OD0065,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,607,0.22,200.31
+OD0066,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,1824,0.25,766.08
+OD0067,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,1368,0.11,383.04
+OD0068,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,1160,0.16,510.4
+OD0069,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,1294,0.23,77.64
+OD0070,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai,1232,0.14,554.4
+OD0071,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli,994,0.31,357.84
+OD0072,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai,2468,0.18,1011.88
+OD0073,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,721,0.27,100.94
+OD0074,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli,2375,0.21,475
+OD0075,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,1965,0.13,117.9
+OD0076,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,1489,0.12,193.57
+OD0077,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai,1250,0.27,75
+OD0078,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai,1358,0.31,488.88
+OD0079,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore,719,0.2,64.71
+OD0080,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai,2303,0.26,621.81
+OD0081,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai,2027,0.34,912.15
+OD0082,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai,1739,0.29,765.16
+OD0083,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai,990,0.26,227.7
+OD0084,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore,2354,0.11,682.66
+OD0085,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai,1044,0.1,344.52
+OD0086,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore,2129,0.25,659.99
+OD0087,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai,1759,0.1,615.65
+OD0088,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai,1663,0.26,665.2
+OD0089,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore,2111,0.21,189.99
+OD0090,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore,1878,0.12,450.72
+OD0091,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore,769,0.34,46.14
+OD0092,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore,1241,0.14,409.53
+OD0093,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore,2128,0.14,383.04
+OD0094,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore,2257,0.33,270.84
+OD0095,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem,1285,0.28,218.45
+OD0096,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem,1230,0.13,442.8
+OD0097,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai,1856,0.21,723.84
+OD0098,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem,545,0.31,125.35
+OD0099,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai,2301,0.28,391.17
+OD0100,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai,1475,0.26,531
+OD0101,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore,2118,0.35,910.74
+OD0102,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai,1527,0.17,671.88
+OD0103,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai,567,0.18,175.77
+OD0104,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli,969,0.27,184.11
+OD0105,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore,2300,0.14,1035
+OD0106,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai,1575,0.33,78.75
+OD0107,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli,540,0.12,108
+OD0108,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore,536,0.34,176.88
+OD0109,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore,556,0.21,155.68
+OD0110,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,1179,0.16,271.17
+OD0111,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,1487,0.12,505.58
+OD0112,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli,2220,0.1,111
+OD0113,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore,2155,0.3,581.85
+OD0114,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore,1154,0.1,69.24
+OD0115,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli,2420,0.11,242
+OD0116,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,1305,0.24,287.1
+OD0117,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai,927,0.2,157.59
+OD0118,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore,983,0.11,186.77
+OD0119,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai,903,0.1,90.3
+OD0120,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem,1235,0.12,74.1
+OD0121,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem,1243,0.24,174.02
+OD0122,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,649,0.34,201.19
+OD0123,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem,2354,0.11,188.32
+OD0124,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem,1443,0.27,187.59
+OD0125,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore,975,0.26,390
+OD0126,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,889,0.19,71.12
+OD0127,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,2352,0.17,870.24
+OD0128,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,1293,0.23,336.18
+OD0129,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai,1458,0.29,597.78
+OD0130,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai,1801,0.22,126.07
+OD0131,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai,1261,0.29,416.13
+OD0132,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli,2112,0.28,105.6
+OD0133,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai,640,0.24,140.8
+OD0134,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,1658,0.12,315.02
+OD0135,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem,2373,0.18,664.44
+OD0136,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai,1430,0.19,514.8
+OD0137,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,1873,0.3,674.28
+OD0138,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore,867,0.14,329.46
+OD0139,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,1101,0.19,484.44
+OD0140,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,1088,0.28,424.32
+OD0141,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,866,0.32,381.04
+OD0142,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,2483,0.14,223.47
+OD0143,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore,1335,0.11,293.7
+OD0144,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,765,0.24,252.45
+OD0145,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai,2403,0.2,624.78
+OD0146,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem,1551,0.13,573.87
+OD0147,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,1564,0.27,187.68
+OD0148,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore,1125,0.33,292.5
+OD0149,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem,768,0.1,184.32
+OD0150,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,1985,0.26,734.45
+OD0151,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli,2287,0.13,1029.15
+OD0152,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli,1016,0.34,335.28
+OD0153,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai,852,0.26,76.68
+OD0154,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,1233,0.28,234.27
+OD0155,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai,2236,0.14,626.08
+OD0156,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai,2188,0.32,809.56
+OD0157,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai,1114,0.2,456.74
+OD0158,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore,1774,0.15,620.9
+OD0159,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,2364,0.21,1040.16
+OD0160,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem,1487,0.11,148.7
+OD0161,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai,713,0.3,192.51
+OD0162,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,737,0.2,280.06
+OD0163,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem,1004,0.26,341.36
+OD0164,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli,1516,0.32,121.28
+OD0165,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,1442,0.28,605.64
+OD0166,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore,1690,0.33,422.5
+OD0167,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,2021,0.13,343.57
+OD0168,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli,2340,0.25,491.4
+OD0169,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai,705,0.15,176.25
+OD0170,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli,1215,0.2,60.75
+OD0171,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai,552,0.25,237.36
+OD0172,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai,1412,0.11,564.8
+OD0173,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli,791,0.32,150.29
+OD0174,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem,2476,0.33,420.92
+OD0175,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore,1747,0.27,471.69
+OD0176,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore,1973,0.15,848.39
+OD0177,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai,2025,0.24,546.75
+OD0178,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,1016,0.29,223.52
+OD0179,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem,689,0.3,55.12
+OD0180,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1322,0.16,343.72
+OD0181,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai,1605,0.25,433.35
+OD0182,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,1718,0.2,171.8
+OD0183,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,2177,0.35,783.72
+OD0184,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai,578,0.19,236.98
+OD0185,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai,782,0.28,195.5
+OD0186,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli,1388,0.35,97.16
+OD0187,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,2264,0.21,792.4
+OD0188,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem,813,0.16,138.21
+OD0189,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,2015,0.24,564.2
+OD0190,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai,1433,0.3,472.89
+OD0191,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore,2093,0.11,334.88
+OD0192,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem,2149,0.17,623.21
+OD0193,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem,1972,0.32,414.12
+OD0194,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli,2060,0.25,432.6
+OD0195,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai,1175,0.12,340.75
+OD0196,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai,1006,0.25,191.14
+OD0197,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem,1409,0.16,380.43
+OD0198,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai,914,0.34,338.18
+OD0199,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai,1352,0.3,527.28
+OD0200,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli,682,0.25,170.5
+OD0201,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai,1738,0.22,243.32
+OD0202,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem,2421,0.25,484.2
+OD0203,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai,2245,0.24,404.1
+OD0204,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai,896,0.12,295.68
+OD0205,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli,1033,0.3,185.94
+OD0206,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai,1998,0.29,139.86
+OD0207,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore,1469,0.15,646.36
+OD0208,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai,1899,0.25,360.81
+OD0209,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli,2194,0.2,153.58
+OD0210,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai,1942,0.29,504.92
+OD0211,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai,609,0.3,207.06
+OD0212,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli,2353,0.26,423.54
+OD0213,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli,1591,0.15,270.47
+OD0214,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai,1353,0.11,527.67
+OD0215,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli,1020,0.21,81.6
+OD0216,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore,1362,0.31,177.06
+OD0217,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore,1733,0.31,433.25
+OD0218,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem,1949,0.17,97.45
+OD0219,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai,2368,0.34,876.16
+OD0220,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,2110,0.25,485.3
+OD0221,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem,1940,0.2,795.4
+OD0222,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem,1557,0.2,638.37
+OD0223,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai,1443,0.19,274.17
+OD0224,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem,2024,0.11,910.8
+OD0225,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai,2168,0.16,563.68
+OD0226,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,621,0.24,173.88
+OD0227,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai,1230,0.17,295.2
+OD0228,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,560,0.34,240.8
+OD0229,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,1286,0.22,282.92
+OD0230,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli,1242,0.34,149.04
+OD0231,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli,717,0.21,43.02
+OD0232,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1480,0.22,444
+OD0233,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,826,0.18,247.8
+OD0234,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli,1846,0.22,276.9
+OD0235,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai,2045,0.12,552.15
+OD0236,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,1983,0.17,773.37
+OD0237,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai,650,0.16,247
+OD0238,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,2163,0.31,216.3
+OD0239,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli,1481,0.15,518.35
+OD0240,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem,2492,0.14,124.6
+OD0241,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,962,0.33,423.28
+OD0242,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,1432,0.3,214.8
+OD0243,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem,523,0.12,78.45
+OD0244,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,1540,0.11,646.8
+OD0245,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,817,0.15,326.8
+OD0246,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,2462,0.31,369.3
+OD0247,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai,962,0.21,288.6
+OD0248,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,538,0.19,59.18
+OD0249,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,1556,0.17,482.36
+OD0250,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem,2133,0.26,959.85
+OD0251,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai,1474,0.14,235.84
+OD0252,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,531,0.14,127.44
+OD0253,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai,1769,0.19,636.84
+OD0254,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem,1257,0.34,62.85
+OD0255,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore,1899,0.27,170.91
+OD0256,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,1929,0.3,617.28
+OD0257,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,2417,0.1,990.97
+OD0258,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli,1443,0.25,476.19
+OD0259,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai,660,0.29,290.4
+OD0260,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,2114,0.32,359.38
+OD0261,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem,1278,0.14,63.9
+OD0262,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore,867,0.18,216.75
+OD0263,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai,943,0.33,150.88
+OD0264,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,1836,0.17,275.4
+OD0265,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli,1200,0.19,420
+OD0266,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli,1167,0.18,256.74
+OD0267,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,696,0.34,139.2
+OD0268,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai,2500,0.33,425
+OD0269,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai,1507,0.16,180.84
+OD0270,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore,1612,0.11,612.56
+OD0271,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem,764,0.11,160.44
+OD0272,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,884,0.31,282.88
+OD0273,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,2443,0.23,781.76
+OD0274,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,1147,0.27,137.64
+OD0275,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai,1899,0.21,493.74
+OD0276,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,744,0.11,66.96
+OD0277,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,812,0.17,284.2
+OD0278,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,862,0.2,137.92
+OD0279,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,1061,0.13,286.47
+OD0280,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,2365,0.31,520.3
+OD0281,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,1421,0.14,454.72
+OD0282,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,1357,0.24,203.55
+OD0283,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,1007,0.24,433.01
+OD0284,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,1544,0.26,138.96
+OD0285,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,1537,0.18,599.43
+OD0286,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,1530,0.18,168.3
+OD0287,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,2460,0.15,738
+OD0288,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore,976,0.35,429.44
+OD0289,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,1106,0.19,298.62
+OD0290,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1165,0.17,244.65
+OD0291,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem,1244,0.14,497.6
+OD0292,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,1992,0.34,418.32
+OD0293,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai,1396,0.16,237.32
+OD0294,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai,849,0.19,263.19
+OD0295,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,2488,0.14,547.36
+OD0296,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,840,0.25,184.8
+OD0297,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,1820,0.21,527.8
+OD0298,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore,1969,0.15,630.08
+OD0299,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,2261,0.23,994.84
+OD0300,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem ,1793,0.21,304.81
+OD0301,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,644,0.33,96.6
+OD0302,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai,1359,0.17,421.29
+OD0303,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem,1554,0.23,683.76
+OD0304,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai,2090,0.25,292.6
+OD0305,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai,931,0.14,297.92
+OD0306,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem,1157,0.2,404.95
+OD0307,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore,2396,0.35,383.36
+OD0308,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,1677,0.18,586.95
+OD0309,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,590,0.27,200.6
+OD0310,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai,1401,0.26,196.14
+OD0311,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai,678,0.29,189.84
+OD0312,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,2417,0.28,797.61
+OD0313,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,2211,0.18,641.19
+OD0314,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai,2392,0.15,406.64
+OD0315,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli,1835,0.29,660.6
+OD0316,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai,2281,0.22,775.54
+OD0317,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,1583,0.21,174.13
+OD0318,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai,1123,0.23,89.84
+OD0319,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai,1079,0.24,410.02
+OD0320,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore,1027,0.16,328.64
+OD0321,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,1771,0.28,602.14
+OD0322,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,1171,0.16,363.01
+OD0323,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli,672,0.16,141.12
+OD0324,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,848,0.21,228.96
+OD0325,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,2078,0.21,914.32
+OD0326,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,1400,0.17,406
+OD0327,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,945,0.22,226.8
+OD0328,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,590,0.22,82.6
+OD0329,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore,1583,0.3,316.6
+OD0330,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,1534,0.15,245.44
+OD0331,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,2133,0.12,490.59
+OD0332,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli,2021,0.19,747.77
+OD0333,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem,1825,0.17,164.25
+OD0334,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,2029,0.35,608.7
+OD0335,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem,1228,0.25,442.08
+OD0336,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,1501,0.24,210.14
+OD0337,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem,1094,0.26,415.72
+OD0338,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai,1179,0.2,106.11
+OD0339,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai,1127,0.29,416.99
+OD0340,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli,601,0.26,234.39
+OD0341,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai,1697,0.21,560.01
+OD0342,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem,2095,0.35,502.8
+OD0343,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli,1132,0.24,215.08
+OD0344,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai,1561,0.35,640.01
+OD0345,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore,1238,0.1,297.12
+OD0346,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem,2068,0.32,165.44
+OD0347,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,1113,0.21,356.16
+OD0348,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem,1966,0.1,629.12
+OD0349,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,2138,0.13,684.16
+OD0350,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli,978,0.17,68.46
+OD0351,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore,2014,0.26,684.76
+OD0352,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai,645,0.21,187.05
+OD0353,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,2194,0.12,680.14
+OD0354,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,1244,0.17,62.2
+OD0355,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,743,0.35,289.77
+OD0356,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,2474,0.21,593.76
+OD0357,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli,1494,0.2,74.7
+OD0358,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1174,0.19,328.72
+OD0359,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,1062,0.35,435.42
+OD0360,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,2297,0.13,528.31
+OD0361,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,562,0.13,56.2
+OD0362,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,2049,0.13,655.68
+OD0363,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,570,0.22,125.4
+OD0364,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,1236,0.35,333.72
+OD0365,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,1069,0.32,459.67
+OD0366,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,1946,0.27,622.72
+OD0367,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,595,0.11,196.35
+OD0368,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,2439,0.21,658.53
+OD0369,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,2415,0.24,555.45
+OD0370,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai,1725,0.27,362.25
+OD0371,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli,688,0.21,116.96
+OD0372,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai,1698,0.16,339.6
+OD0373,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,1665,0.33,216.45
+OD0374,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli,1309,0.13,78.54
+OD0375,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,905,0.32,72.4
+OD0376,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,2271,0.35,295.23
+OD0377,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai,2091,0.27,522.75
+OD0378,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai,1917,0.28,172.53
+OD0379,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore,641,0.17,179.48
+OD0380,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai,1192,0.26,417.2
+OD0381,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai,1132,0.21,464.12
+OD0382,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai,1727,0.27,224.51
+OD0383,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai,1051,0.34,378.36
+OD0384,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore,2109,0.19,337.44
+OD0385,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai,1311,0.14,314.64
+OD0386,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore,759,0.1,265.65
+OD0387,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai,2201,0.21,462.21
+OD0388,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai,1964,0.22,314.24
+OD0389,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore,1898,0.19,702.26
+OD0390,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore,2282,0.19,114.1
+OD0391,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore,2294,0.18,596.44
+OD0392,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore,2213,0.34,995.85
+OD0393,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore,1797,0.3,269.55
+OD0394,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore,1912,0.29,382.4
+OD0395,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem,1865,0.11,354.35
+OD0396,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem,1838,0.24,753.58
+OD0397,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai,1626,0.23,195.12
+OD0398,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem,647,0.33,71.17
+OD0399,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai,1042,0.2,177.14
+OD0400,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai,1519,0.23,318.99
+OD0401,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore,532,0.26,148.96
+OD0402,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai,1477,0.23,73.85
+OD0403,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai,707,0.14,98.98
+OD0404,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli,1748,0.24,314.64
+OD0405,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore,2257,0.15,361.12
+OD0406,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai,762,0.31,198.12
+OD0407,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli,904,0.17,63.28
+OD0408,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore,958,0.18,182.02
+OD0409,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore,2193,0.33,899.13
+OD0410,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,830,0.14,66.4
+OD0411,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,1531,0.28,505.23
+OD0412,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli,2355,0.14,753.6
+OD0413,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore,917,0.19,256.76
+OD0414,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore,1433,0.25,458.56
+OD0415,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli,2246,0.31,965.78
+OD0416,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,2130,0.23,937.2
+OD0417,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai,2461,0.18,393.76
+OD0418,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore,1863,0.1,167.67
+OD0419,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai,1382,0.1,290.22
+OD0420,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem,807,0.32,88.77
+OD0421,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem,1272,0.24,305.28
+OD0422,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1621,0.15,470.09
+OD0423,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem,1356,0.27,501.72
+OD0424,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem,684,0.21,54.72
+OD0425,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore,540,0.27,162
+OD0426,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,1256,0.21,113.04
+OD0427,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,581,0.2,214.97
+OD0428,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,707,0.1,226.24
+OD0429,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai,913,0.19,374.33
+OD0430,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai,507,0.33,96.33
+OD0431,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai,1367,0.29,355.42
+OD0432,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli,833,0.28,233.24
+OD0433,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai,1987,0.34,258.31
+OD0434,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,1152,0.11,264.96
+OD0435,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem,1362,0.12,517.56
+OD0436,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai,942,0.15,122.46
+OD0437,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,2200,0.1,792
+OD0438,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore,861,0.25,258.3
+OD0439,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,1648,0.33,444.96
+OD0440,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,1805,0.23,216.6
+OD0441,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,620,0.3,74.4
+OD0442,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,1216,0.27,547.2
+OD0443,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore,686,0.3,34.3
+OD0444,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,1648,0.23,313.12
+OD0445,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai,506,0.23,217.58
+OD0446,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem,1579,0.21,347.38
+OD0447,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,550,0.29,231
+OD0448,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore,2020,0.22,848.4
+OD0449,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem,695,0.24,104.25
+OD0450,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,2453,0.35,367.95
+OD0451,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli,1820,0.23,637
+OD0452,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli,508,0.28,152.4
+OD0453,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai,2459,0.23,860.65
+OD0454,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,850,0.11,93.5
+OD0455,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai,2417,0.2,821.78
+OD0456,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai,795,0.3,206.7
+OD0457,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai,2142,0.26,664.02
+OD0458,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore,1542,0.2,647.64
+OD0459,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,2411,0.3,699.19
+OD0460,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem,1213,0.28,206.21
+OD0461,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai,507,0.1,101.4
+OD0462,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,618,0.28,216.3
+OD0463,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem,1199,0.33,167.86
+OD0464,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli,2200,0.23,484
+OD0465,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,1238,0.27,519.96
+OD0466,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore,1962,0.22,412.02
+OD0467,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,580,0.26,139.2
+OD0468,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli,2412,0.21,168.84
+OD0469,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai,1224,0.16,208.08
+OD0470,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli,1356,0.31,216.96
+OD0471,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai,502,0.25,80.32
+OD0472,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai,2271,0.23,658.59
+OD0473,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli,1977,0.33,514.02
+OD0474,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem,1388,0.34,208.2
+OD0475,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore,2115,0.19,359.55
+OD0476,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore,1976,0.18,790.4
+OD0477,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai,1323,0.22,251.37
+OD0478,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,639,0.25,255.6
+OD0479,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem,1544,0.14,633.04
+OD0480,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1223,0.12,146.76
+OD0481,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai,1224,0.22,403.92
+OD0482,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,2157,0.25,949.08
+OD0483,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,673,0.1,195.17
+OD0484,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai,2092,0.23,188.28
+OD0485,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai,1892,0.19,491.92
+OD0486,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli,1943,0.14,777.2
+OD0487,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,1968,0.14,649.44
+OD0488,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem,1596,0.26,478.8
+OD0489,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,1637,0.3,572.95
+OD0490,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai,2232,0.1,870.48
+OD0491,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore,1917,0.22,843.48
+OD0492,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem,531,0.22,74.34
+OD0493,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem,1283,0.24,526.03
+OD0494,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli,937,0.33,327.95
+OD0495,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai,1373,0.17,247.14
+OD0496,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai,1598,0.33,415.48
+OD0497,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem,1398,0.26,545.22
+OD0498,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai,1070,0.24,53.5
+OD0499,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai,1948,0.25,818.16
+OD0500,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli,702,0.28,161.46
+OD0501,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai,1953,0.23,722.61
+OD0502,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem,548,0.15,115.08
+OD0503,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai,1952,0.17,624.64
+OD0504,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai,1836,0.24,716.04
+OD0505,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli,2292,0.16,114.6
+OD0506,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai,2112,0.18,380.16
+OD0507,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore,2354,0.18,870.98
+OD0508,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai,2061,0.31,865.62
+OD0509,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli,1791,0.31,519.39
+OD0510,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai,2009,0.31,904.05
+OD0511,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai,1850,0.29,777
+OD0512,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli,898,0.33,80.82
+OD0513,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli,1070,0.28,310.3
+OD0514,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai,606,0.29,121.2
+OD0515,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli,2352,0.27,564.48
+OD0516,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore,1381,0.24,151.91
+OD0517,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore,1170,0.17,257.4
+OD0518,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem,1815,0.12,272.25
+OD0519,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai,595,0.21,89.25
+OD0520,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,640,0.27,256
+OD0521,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem,1854,0.34,519.12
+OD0522,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem,2088,0.33,689.04
+OD0523,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai,1837,0.34,734.8
+OD0524,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem,737,0.29,221.1
+OD0525,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai,2447,0.29,978.8
+OD0526,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,1102,0.22,77.14
+OD0527,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai,2236,0.27,178.88
+OD0528,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,1413,0.28,155.43
+OD0529,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,1032,0.33,237.36
+OD0530,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli,1597,0.13,367.31
+OD0531,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli,1537,0.31,169.07
+OD0532,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1245,0.2,348.6
+OD0533,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,1902,0.13,646.68
+OD0534,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli,888,0.22,115.44
+OD0535,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai,1416,0.25,396.48
+OD0536,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,739,0.17,310.38
+OD0537,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai,1262,0.22,302.88
+OD0538,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,2241,0.22,493.02
+OD0539,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli,2060,0.24,412
+OD0540,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem,1633,0.35,669.53
+OD0541,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,1338,0.27,374.64
+OD0542,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,1382,0.12,179.66
+OD0543,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem,1296,0.26,388.8
+OD0544,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,2289,0.16,526.47
+OD0545,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,898,0.24,44.9
+OD0546,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,2017,0.14,665.61
+OD0547,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai,1404,0.3,294.84
+OD0548,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,888,0.23,337.44
+OD0549,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,659,0.28,204.29
+OD0550,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem,1167,0.3,501.81
+OD0551,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai,1471,0.1,308.91
+OD0552,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,2481,0.26,421.77
+OD0553,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai,2336,0.34,607.36
+OD0554,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem,1696,0.21,84.8
+OD0555,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore,1904,0.26,628.32
+OD0556,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,861,0.2,163.59
+OD0557,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,1505,0.29,376.25
+OD0558,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli,1791,0.19,608.94
+OD0559,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai,1826,0.22,91.3
+OD0560,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,768,0.25,268.8
+OD0561,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem,1551,0.21,511.83
+OD0562,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore,1313,0.31,525.2
+OD0563,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai,1455,0.3,494.7
+OD0564,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,777,0.25,186.48
+OD0565,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli,2179,0.31,326.85
+OD0566,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli,1527,0.16,305.4
+OD0567,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,2207,0.33,132.42
+OD0568,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai,1879,0.28,563.7
+OD0569,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai,1668,0.1,283.56
+OD0570,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore,727,0.23,247.18
+OD0571,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem,979,0.1,430.76
+OD0572,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,1362,0.18,381.36
+OD0573,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,1626,0.24,650.4
+OD0574,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,681,0.23,286.02
+OD0575,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai,2017,0.21,322.72
+OD0576,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,980,0.16,205.8
+OD0577,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,931,0.31,418.95
+OD0578,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1454,0.31,276.26
+OD0579,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,2139,0.14,192.51
+OD0580,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,1456,0.14,567.84
+OD0581,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,2403,0.14,480.6
+OD0582,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,822,0.13,98.64
+OD0583,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,750,0.16,165
+OD0584,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,1483,0.29,281.77
+OD0585,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,1072,0.3,310.88
+OD0586,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,842,0.22,176.82
+OD0587,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,1479,0.29,73.95
+OD0588,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore,619,0.12,229.03
+OD0589,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,1784,0.29,428.16
+OD0590,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1586,0.31,650.26
+OD0591,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem,1354,0.24,324.96
+OD0592,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,1545,0.34,432.6
+OD0593,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai,2409,0.27,867.24
+OD0594,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai,1432,0.15,300.72
+OD0595,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,1443,0.25,533.91
+OD0596,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,1770,0.19,177
+OD0597,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,1298,0.3,272.58
+OD0598,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore,1674,0.12,652.86
+OD0599,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,1925,0.16,712.25
+OD0600,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem ,1963,0.27,392.6
+OD0601,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,1899,0.3,797.58
+OD0602,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai,2172,0.2,608.16
+OD0603,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem,2289,0.2,618.03
+OD0604,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai,2110,0.3,590.8
+OD0605,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai,1577,0.33,599.26
+OD0606,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem,2092,0.17,920.48
+OD0607,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore,2269,0.21,907.6
+OD0608,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,1426,0.14,470.58
+OD0609,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,1895,0.28,852.75
+OD0610,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai,580,0.14,168.2
+OD0611,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai,791,0.19,142.38
+OD0612,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1167,0.28,303.42
+OD0613,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,1138,0.29,102.42
+OD0614,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai,885,0.19,265.5
+OD0615,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli,1149,0.25,471.09
+OD0616,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai,753,0.23,301.2
+OD0617,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,2493,0.23,922.41
+OD0618,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai,2236,0.24,961.48
+OD0619,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai,2106,0.16,884.52
+OD0620,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore,1873,0.33,618.09
+OD0621,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,1155,0.31,138.6
+OD0622,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,1881,0.27,432.63
+OD0623,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli,2285,0.21,982.55
+OD0624,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,561,0.23,134.64
+OD0625,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,1482,0.19,340.86
+OD0626,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,977,0.18,332.18
+OD0627,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,1595,0.14,717.75
+OD0628,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,1069,0.28,128.28
+OD0629,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore,566,0.2,215.08
+OD0630,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,1551,0.27,155.1
+OD0631,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,1279,0.13,409.28
+OD0632,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli,745,0.26,208.6
+OD0633,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem,540,0.17,32.4
+OD0634,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,620,0.29,43.4
+OD0635,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem,1931,0.26,308.96
+OD0636,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,2151,0.27,215.1
+OD0637,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem,1547,0.15,665.21
+OD0638,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai,926,0.28,240.76
+OD0639,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai,1419,0.34,283.8
+OD0640,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli,534,0.16,101.46
+OD0641,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai,2037,0.21,448.14
+OD0642,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem,966,0.13,183.54
+OD0643,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli,1125,0.21,427.5
+OD0644,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai,2333,0.14,139.98
+OD0645,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore,1361,0.24,299.42
+OD0646,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem,1656,0.31,149.04
+OD0647,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,1351,0.25,202.65
+OD0648,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem,992,0.33,109.12
+OD0649,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,559,0.1,223.6
+OD0650,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli,2404,0.23,697.16
+OD0651,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore,1082,0.28,421.98
+OD0652,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai,1051,0.21,147.14
+OD0653,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,1578,0.22,362.94
+OD0654,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,1086,0.27,434.4
+OD0655,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,1703,0.2,221.39
+OD0656,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,1630,0.13,537.9
+OD0657,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli,1689,0.31,236.46
+OD0658,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1972,0.3,216.92
+OD0659,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,1797,0.28,682.86
+OD0660,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,1562,0.16,421.74
+OD0661,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,2398,0.29,671.44
+OD0662,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,2372,0.13,237.2
+OD0663,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,1527,0.1,106.89
+OD0664,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,884,0.29,150.28
+OD0665,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,2482,0.17,645.32
+OD0666,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,1250,0.3,125
+OD0667,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,1548,0.14,356.04
+OD0668,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,2147,0.25,536.75
+OD0669,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,2159,0.19,647.7
+OD0670,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai,1054,0.2,432.14
+OD0671,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli,883,0.12,291.39
+OD0672,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai,1676,0.15,134.08
+OD0673,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,2323,0.25,673.67
+OD0674,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli,1292,0.29,297.16
+OD0675,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,2421,0.11,387.36
+OD0676,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,1204,0.19,457.52
+OD0677,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai,2118,0.13,868.38
+OD0678,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai,1832,0.21,549.6
+OD0679,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore,1136,0.33,170.4
+OD0680,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai,1952,0.22,585.6
+OD0681,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai,1686,0.27,573.24
+OD0682,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai,2202,0.19,748.68
+OD0683,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai,2397,0.26,743.07
+OD0684,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore,1709,0.28,615.24
+OD0685,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai,2340,0.29,444.6
+OD0686,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore,1130,0.34,327.7
+OD0687,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai,960,0.19,144
+OD0688,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai,2142,0.21,149.94
+OD0689,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore,774,0.27,69.66
+OD0690,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore,2427,0.28,461.13
+OD0691,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore,2231,0.23,379.27
+OD0692,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore,1163,0.25,314.01
+OD0693,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore,520,0.1,52
+OD0694,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore,713,0.28,299.46
+OD0695,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem,2128,0.1,425.6
+OD0696,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem,2302,0.18,230.2
+OD0697,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai,1735,0.11,572.55
+OD0698,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem,2178,0.13,718.74
+OD0699,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai,2173,0.12,956.12
+OD0700,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai,1064,0.27,234.08
+OD0701,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore,1259,0.25,276.98
+OD0702,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai,2086,0.23,229.46
+OD0703,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai,2062,0.18,268.06
+OD0704,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli,2463,0.32,197.04
+OD0705,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore,506,0.22,136.62
+OD0706,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai,1354,0.35,500.98
+OD0707,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli,1030,0.25,247.2
+OD0708,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore,530,0.28,174.9
+OD0709,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore,1409,0.11,408.61
+OD0710,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,1419,0.27,255.42
+OD0711,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,2371,0.32,900.98
+OD0712,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli,1078,0.21,258.72
+OD0713,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore,1084,0.21,54.2
+OD0714,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore,1498,0.19,179.76
+OD0715,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli,1797,0.28,449.25
+OD0716,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,1596,0.34,351.12
+OD0717,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai,2019,0.14,868.17
+OD0718,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore,2146,0.21,643.8
+OD0719,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai,544,0.3,174.08
+OD0720,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem,1271,0.3,152.52
+OD0721,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem,762,0.18,129.54
+OD0722,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1862,0.16,800.66
+OD0723,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem,617,0.31,209.78
+OD0724,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem,2130,0.23,426
+OD0725,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore,1272,0.3,63.6
+OD0726,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,661,0.14,92.54
+OD0727,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,2290,0.29,480.9
+OD0728,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,1182,0.19,260.04
+OD0729,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai,2128,0.34,893.76
+OD0730,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai,2042,0.2,735.12
+OD0731,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai,1819,0.17,582.08
+OD0732,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli,2310,0.35,993.3
+OD0733,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai,1405,0.14,252.9
+OD0734,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,2103,0.1,883.26
+OD0735,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem,2158,0.28,366.86
+OD0736,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai,1399,0.26,307.78
+OD0737,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,1333,0.23,199.95
+OD0738,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore,2014,0.28,443.08
+OD0739,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,1808,0.24,108.48
+OD0740,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,2033,0.15,325.28
+OD0741,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,698,0.32,223.36
+OD0742,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,759,0.27,174.57
+OD0743,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore,700,0.33,252
+OD0744,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,550,0.32,203.5
+OD0745,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai,1454,0.1,232.64
+OD0746,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem,1194,0.28,143.28
+OD0747,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,637,0.13,267.54
+OD0748,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore,516,0.12,196.08
+OD0749,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem,2238,0.16,604.26
+OD0750,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,2032,0.17,386.08
+OD0751,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli,1842,0.18,755.22
+OD0752,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli,1589,0.35,190.68
+OD0753,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai,1531,0.14,214.34
+OD0754,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,1641,0.32,656.4
+OD0755,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai,1586,0.16,697.84
+OD0756,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai,1655,0.32,380.65
+OD0757,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai,1958,0.18,215.38
+OD0758,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore,1083,0.23,249.09
+OD0759,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,2031,0.19,101.55
+OD0760,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem,1617,0.13,80.85
+OD0761,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai,1758,0.31,580.14
+OD0762,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,1881,0.11,733.59
+OD0763,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem,1658,0.34,132.64
+OD0764,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli,1401,0.31,462.33
+OD0765,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,1949,0.18,760.11
+OD0766,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore,2239,0.1,985.16
+OD0767,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,1903,0.11,666.05
+OD0768,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli,1367,0.13,136.7
+OD0769,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai,1000,0.28,420
+OD0770,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli,535,0.18,219.35
+OD0771,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai,1562,0.23,218.68
+OD0772,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai,1114,0.22,189.38
+OD0773,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli,2382,0.19,119.1
+OD0774,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem,649,0.11,201.19
+OD0775,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore,1880,0.3,601.6
+OD0776,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore,825,0.17,255.75
+OD0777,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai,1026,0.2,379.62
+OD0778,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,1273,0.32,152.76
+OD0779,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem,1072,0.15,182.24
+OD0780,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1794,0.2,430.56
+OD0781,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai,1889,0.26,604.48
+OD0782,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,2196,0.14,790.56
+OD0783,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,1856,0.32,705.28
+OD0784,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai,2406,0.25,1010.52
+OD0785,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai,1746,0.22,576.18
+OD0786,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli,704,0.26,154.88
+OD0787,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,1787,0.21,268.05
+OD0788,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem,825,0.1,313.5
+OD0789,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,1702,0.26,663.78
+OD0790,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai,1167,0.24,233.4
+OD0791,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore,1059,0.16,349.47
+OD0792,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem,1546,0.1,479.26
+OD0793,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem,2135,0.11,576.45
+OD0794,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli,1802,0.23,558.62
+OD0795,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai,979,0.21,78.32
+OD0796,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai,816,0.24,155.04
+OD0797,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem,663,0.1,218.79
+OD0798,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai,1627,0.18,715.88
+OD0799,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai,1549,0.26,588.62
+OD0800,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli,2018,0.34,585.22
+OD0801,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai,1983,0.33,456.09
+OD0802,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem,2029,0.3,385.51
+OD0803,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai,1980,0.12,118.8
+OD0804,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai,2375,0.19,332.5
+OD0805,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli,1736,0.14,86.8
+OD0806,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai,1843,0.12,313.31
+OD0807,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore,1176,0.34,529.2
+OD0808,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai,662,0.18,165.5
+OD0809,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli,1501,0.22,345.23
+OD0810,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai,1900,0.34,722
+OD0811,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai,1471,0.16,147.1
+OD0812,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli,874,0.27,367.08
+OD0813,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli,1259,0.24,415.47
+OD0814,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai,1670,0.29,83.5
+OD0815,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli,1801,0.32,468.26
+OD0816,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore,1776,0.2,372.96
+OD0817,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore,2031,0.26,243.72
+OD0818,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem,2081,0.21,478.63
+OD0819,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai,2166,0.3,714.78
+OD0820,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore,1152,0.3,391.68
+OD0821,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem,1831,0.34,128.17
+OD0822,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem,2313,0.1,693.9
+OD0823,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai,1918,0.17,421.96
+OD0824,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem,1580,0.3,553
+OD0825,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai,506,0.18,86.02
+OD0826,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai,1291,0.24,477.67
+OD0827,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai,681,0.27,211.11
+OD0828,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,553,0.2,27.65
+OD0829,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,693,0.12,173.25
+OD0830,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli,1712,0.32,650.56
+OD0831,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli,1336,0.12,160.32
+OD0832,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1095,0.13,339.45
+OD0833,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,1950,0.17,682.5
+OD0834,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli,1478,0.12,251.26
+OD0835,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai,1726,0.13,759.44
+OD0836,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore,1423,0.32,270.37
+OD0837,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai,506,0.21,65.78
+OD0838,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem,866,0.16,147.22
+OD0839,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli,982,0.34,235.68
+OD0840,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem,1287,0.31,579.15
+OD0841,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,2205,0.19,463.05
+OD0842,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,1808,0.34,162.72
+OD0843,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem,680,0.35,108.8
+OD0844,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,2386,0.29,858.96
+OD0845,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,2280,0.27,615.6
+OD0846,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,2008,0.24,742.96
+OD0847,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai,652,0.11,123.88
+OD0848,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,2076,0.29,103.8
+OD0849,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai,1353,0.14,419.43
+OD0850,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem,740,0.29,155.4
+OD0851,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai,1100,0.15,308
+OD0852,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore,1759,0.34,211.08
+OD0853,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai,2099,0.29,230.89
+OD0854,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem,1935,0.21,638.55
+OD0855,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore,1316,0.16,105.28
+OD0856,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,2040,0.23,510
+OD0857,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli,1742,0.13,487.76
+OD0858,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli,1559,0.31,420.93
+OD0859,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai,1141,0.34,148.33
+OD0860,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai,2060,0.22,679.8
+OD0861,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem,1426,0.18,570.4
+OD0862,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore,1263,0.13,88.41
+OD0863,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai,1880,0.22,714.4
+OD0864,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai,899,0.35,224.75
+OD0865,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli,1417,0.29,524.29
+OD0866,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli,1066,0.27,191.88
+OD0867,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,1330,0.31,119.7
+OD0868,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai,1677,0.31,603.72
+OD0869,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai,627,0.18,250.8
+OD0870,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore,1598,0.13,719.1
+OD0871,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem,1852,0.25,796.36
+OD0872,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem,1970,0.11,492.5
+OD0873,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,1504,0.33,135.36
+OD0874,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,1795,0.26,448.75
+OD0875,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai,693,0.32,187.11
+OD0876,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,866,0.29,207.84
+OD0877,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai,1704,0.21,766.8
+OD0878,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1306,0.14,404.86
+OD0879,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,1761,0.24,352.2
+OD0880,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,2195,0.19,373.15
+OD0881,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,1733,0.21,623.88
+OD0882,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,882,0.22,97.02
+OD0883,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,2137,0.31,512.88
+OD0884,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,2172,0.22,304.08
+OD0885,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,804,0.3,64.32
+OD0886,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,1436,0.29,588.76
+OD0887,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,1798,0.33,359.6
+OD0888,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore,2043,0.16,204.3
+OD0889,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,1762,0.19,123.34
+OD0890,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore,1290,0.34,399.9
+OD0891,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem,1615,0.12,613.7
+OD0892,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem,748,0.28,224.4
+OD0893,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai,2275,0.18,318.5
+OD0894,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai,1056,0.29,211.2
+OD0895,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,1778,0.34,266.7
+OD0896,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,783,0.19,195.75
+OD0897,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli,2263,0.3,429.97
+OD0898,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore,1752,0.33,350.4
+OD0899,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem,1647,0.22,708.21
+OD0900,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem ,1966,0.34,393.2
+OD0901,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai,745,0.26,37.25
+OD0902,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai,1233,0.32,480.87
+OD0903,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem,1331,0.2,212.96
+OD0904,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai,2336,0.31,116.8
+OD0905,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai,1441,0.18,634.04
+OD0906,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem,951,0.26,85.59
+OD0907,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore,1240,0.34,458.8
+OD0908,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai,1854,0.2,685.98
+OD0909,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai,1167,0.28,455.13
+OD0910,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai,2372,0.13,853.92
+OD0911,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai,1579,0.25,442.12
+OD0912,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem,1734,0.2,329.46
+OD0913,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore,2069,0.13,558.63
+OD0914,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai,1404,0.29,238.68
+OD0915,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli,2048,0.26,552.96
+OD0916,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai,1008,0.28,302.4
+OD0917,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore,1539,0.16,507.87
+OD0918,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai,2459,0.17,442.62
+OD0919,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai,1249,0.23,462.13
+OD0920,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore,1410,0.31,70.5
+OD0921,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem,845,0.15,354.9
+OD0922,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai,558,0.35,189.72
+OD0923,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli,1783,0.25,374.43
+OD0924,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore,2232,0.17,491.04
+OD0925,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore,1967,0.2,885.15
+OD0926,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore,1118,0.25,402.48
+OD0927,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem,1964,0.29,451.72
+OD0928,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli,938,0.13,300.16
+OD0929,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore,2127,0.19,425.4
+OD0930,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai,1198,0.17,179.7
+OD0931,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli,905,0.18,307.7
+OD0932,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli,1655,0.2,662
+OD0933,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem,712,0.19,306.16
+OD0934,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore,735,0.34,183.75
+OD0935,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem,664,0.27,92.96
+OD0936,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai,1004,0.21,200.8
+OD0937,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem,1641,0.19,262.56
+OD0938,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai,1972,0.24,138.04
+OD0939,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai,1551,0.15,666.93
+OD0940,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli,1703,0.35,255.45
+OD0941,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai,1208,0.28,410.72
+OD0942,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem,1681,0.21,151.29
+OD0943,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli,1988,0.26,238.56
+OD0944,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai,2135,0.15,704.55
+OD0945,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore,1254,0.33,551.76
+OD0946,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem,2105,0.25,252.6
+OD0947,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore,1140,0.19,273.6
+OD0948,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem,2480,0.19,248
+OD0949,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore,2439,0.26,195.12
+OD0950,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli,546,0.11,65.52
+OD0951,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore,951,0.15,95.1
+OD0952,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai,2279,0.16,113.95
+OD0953,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore,1102,0.3,495.9
+OD0954,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai,1992,0.15,338.64
+OD0955,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli,963,0.1,182.97
+OD0956,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem,1011,0.22,161.76
+OD0957,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli,992,0.15,148.8
+OD0958,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore,1702,0.22,408.48
+OD0959,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai,2341,0.31,117.05
+OD0960,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore,945,0.33,425.25
+OD0961,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai,1161,0.32,441.18
+OD0962,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem,1097,0.18,252.31
+OD0963,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem,2319,0.1,417.42
+OD0964,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai,1758,0.23,158.22
+OD0965,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem,1792,0.28,197.12
+OD0966,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem,2432,0.29,753.92
+OD0967,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem,2049,0.19,778.62
+OD0968,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli,2229,0.1,267.48
+OD0969,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai,1120,0.27,459.2
+OD0970,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai,1481,0.11,88.86
+OD0971,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli,1398,0.12,139.8
+OD0972,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai,990,0.11,237.6
+OD0973,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore,2152,0.1,430.4
+OD0974,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli,1169,0.22,362.39
+OD0975,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore,617,0.3,197.44
+OD0976,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore,1090,0.21,250.7
+OD0977,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai,1205,0.3,494.05
+OD0978,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai,758,0.14,303.2
+OD0979,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore,1074,0.18,118.14
+OD0980,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai,829,0.16,49.74
+OD0981,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai,618,0.12,148.32
+OD0982,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai,911,0.24,91.1
+OD0983,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai,1722,0.21,154.98
+OD0984,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore,1660,0.33,315.4
+OD0985,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai,2494,0.27,548.68
+OD0986,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore,2444,0.33,415.48
+OD0987,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai,1175,0.14,70.5
+OD0988,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai,1868,0.19,317.56
+OD0989,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore,1862,0.14,409.64
+OD0990,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore,869,0.21,243.32
+OD0991,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore,1747,0.12,244.58
+OD0992,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore,1612,0.3,386.88
+OD0993,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore,2297,0.3,895.83
+OD0994,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore,1534,0.11,475.54
+OD0995,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem,807,0.11,80.7
+OD0996,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem,575,0.34,132.25
+OD0997,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai,1805,0.13,649.8
+OD0998,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem,1700,0.17,459
+OD0999,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai,1010,0.32,141.4
+OD1000,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai,748,0.23,89.76

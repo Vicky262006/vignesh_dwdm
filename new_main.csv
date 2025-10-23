@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,product1,product2,product3,order_date,state,city
+OD0001,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0002,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai
+OD0003,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem
+OD0004,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai
+OD0005,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai
+OD0006,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem
+OD0007,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore
+OD0008,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0009,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0010,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai
+OD0011,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai
+OD0012,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0013,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0014,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai
+OD0015,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli
+OD0016,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai
+OD0017,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0018,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai
+OD0019,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai
+OD0020,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore
+OD0021,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0022,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0023,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli
+OD0024,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0025,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0026,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0027,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0028,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0029,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore
+OD0030,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0031,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0032,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli
+OD0033,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem
+OD0034,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0035,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem
+OD0036,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0037,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem
+OD0038,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai
+OD0039,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai
+OD0040,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli
+OD0041,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai
+OD0042,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem
+OD0043,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli
+OD0044,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai
+OD0045,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore
+OD0046,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem
+OD0047,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0048,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem
+OD0049,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0050,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli
+OD0051,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore
+OD0052,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai
+OD0053,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0054,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0055,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0056,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0057,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli
+OD0058,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0059,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0060,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0061,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0062,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0063,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0064,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0065,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0066,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0067,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0068,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0069,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0070,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai
+OD0071,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli
+OD0072,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai
+OD0073,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0074,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli
+OD0075,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0076,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0077,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai
+OD0078,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai
+OD0079,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore
+OD0080,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai
+OD0081,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai
+OD0082,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai
+OD0083,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai
+OD0084,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore
+OD0085,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai
+OD0086,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore
+OD0087,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai
+OD0088,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai
+OD0089,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore
+OD0090,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore
+OD0091,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore
+OD0092,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore
+OD0093,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore
+OD0094,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore
+OD0095,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem
+OD0096,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem
+OD0097,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai
+OD0098,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem
+OD0099,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai
+OD0100,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai
+OD0101,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore
+OD0102,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai
+OD0103,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai
+OD0104,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli
+OD0105,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore
+OD0106,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai
+OD0107,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli
+OD0108,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore
+OD0109,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore
+OD0110,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0111,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0112,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli
+OD0113,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore
+OD0114,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore
+OD0115,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli
+OD0116,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0117,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai
+OD0118,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore
+OD0119,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai
+OD0120,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem
+OD0121,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem
+OD0122,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0123,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem
+OD0124,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem
+OD0125,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore
+OD0126,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0127,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0128,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0129,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai
+OD0130,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai
+OD0131,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai
+OD0132,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli
+OD0133,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai
+OD0134,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0135,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem
+OD0136,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai
+OD0137,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0138,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore
+OD0139,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0140,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0141,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0142,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0143,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore
+OD0144,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0145,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai
+OD0146,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem
+OD0147,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0148,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore
+OD0149,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem
+OD0150,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0151,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli
+OD0152,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli
+OD0153,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai
+OD0154,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0155,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai
+OD0156,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai
+OD0157,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai
+OD0158,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore
+OD0159,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0160,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem
+OD0161,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai
+OD0162,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0163,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem
+OD0164,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli
+OD0165,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0166,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore
+OD0167,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0168,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli
+OD0169,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai
+OD0170,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli
+OD0171,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai
+OD0172,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai
+OD0173,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli
+OD0174,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem
+OD0175,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore
+OD0176,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore
+OD0177,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai
+OD0178,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0179,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem
+OD0180,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0181,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai
+OD0182,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0183,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0184,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai
+OD0185,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai
+OD0186,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli
+OD0187,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0188,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem
+OD0189,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0190,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai
+OD0191,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore
+OD0192,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem
+OD0193,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem
+OD0194,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli
+OD0195,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai
+OD0196,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai
+OD0197,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem
+OD0198,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai
+OD0199,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai
+OD0200,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli
+OD0201,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai
+OD0202,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem
+OD0203,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai
+OD0204,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai
+OD0205,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli
+OD0206,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai
+OD0207,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore
+OD0208,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai
+OD0209,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli
+OD0210,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai
+OD0211,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai
+OD0212,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli
+OD0213,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli
+OD0214,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai
+OD0215,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli
+OD0216,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore
+OD0217,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore
+OD0218,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem
+OD0219,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai
+OD0220,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0221,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem
+OD0222,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem
+OD0223,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai
+OD0224,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem
+OD0225,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai
+OD0226,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0227,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai
+OD0228,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0229,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0230,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli
+OD0231,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli
+OD0232,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0233,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0234,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli
+OD0235,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai
+OD0236,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0237,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai
+OD0238,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0239,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli
+OD0240,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem
+OD0241,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0242,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0243,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem
+OD0244,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0245,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0246,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0247,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai
+OD0248,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0249,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0250,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem
+OD0251,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai
+OD0252,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0253,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai
+OD0254,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem
+OD0255,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore
+OD0256,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0257,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0258,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli
+OD0259,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai
+OD0260,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0261,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem
+OD0262,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore
+OD0263,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai
+OD0264,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0265,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli
+OD0266,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli
+OD0267,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0268,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai
+OD0269,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai
+OD0270,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore
+OD0271,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem
+OD0272,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0273,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0274,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0275,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai
+OD0276,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0277,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0278,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0279,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0280,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0281,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0282,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0283,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0284,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0285,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0286,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0287,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0288,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore
+OD0289,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0290,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0291,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem
+OD0292,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0293,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai
+OD0294,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai
+OD0295,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0296,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0297,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0298,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore
+OD0299,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0300,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem 
+OD0301,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0302,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai
+OD0303,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem
+OD0304,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai
+OD0305,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai
+OD0306,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem
+OD0307,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore
+OD0308,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0309,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0310,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai
+OD0311,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai
+OD0312,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0313,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0314,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai
+OD0315,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli
+OD0316,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai
+OD0317,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0318,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai
+OD0319,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai
+OD0320,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore
+OD0321,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0322,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0323,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli
+OD0324,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0325,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0326,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0327,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0328,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0329,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore
+OD0330,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0331,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0332,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli
+OD0333,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem
+OD0334,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0335,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem
+OD0336,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0337,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem
+OD0338,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai
+OD0339,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai
+OD0340,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli
+OD0341,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai
+OD0342,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem
+OD0343,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli
+OD0344,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai
+OD0345,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore
+OD0346,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem
+OD0347,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0348,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem
+OD0349,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0350,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli
+OD0351,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore
+OD0352,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai
+OD0353,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0354,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0355,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0356,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0357,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli
+OD0358,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0359,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0360,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0361,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0362,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0363,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0364,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0365,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0366,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0367,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0368,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0369,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0370,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai
+OD0371,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli
+OD0372,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai
+OD0373,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0374,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli
+OD0375,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0376,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0377,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai
+OD0378,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai
+OD0379,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore
+OD0380,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai
+OD0381,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai
+OD0382,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai
+OD0383,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai
+OD0384,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore
+OD0385,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai
+OD0386,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore
+OD0387,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai
+OD0388,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai
+OD0389,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore
+OD0390,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore
+OD0391,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore
+OD0392,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore
+OD0393,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore
+OD0394,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore
+OD0395,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem
+OD0396,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem
+OD0397,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai
+OD0398,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem
+OD0399,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai
+OD0400,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai
+OD0401,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore
+OD0402,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai
+OD0403,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai
+OD0404,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli
+OD0405,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore
+OD0406,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai
+OD0407,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli
+OD0408,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore
+OD0409,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore
+OD0410,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0411,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0412,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli
+OD0413,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore
+OD0414,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore
+OD0415,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli
+OD0416,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0417,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai
+OD0418,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore
+OD0419,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai
+OD0420,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem
+OD0421,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem
+OD0422,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0423,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem
+OD0424,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem
+OD0425,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore
+OD0426,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0427,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0428,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0429,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai
+OD0430,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai
+OD0431,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai
+OD0432,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli
+OD0433,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai
+OD0434,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0435,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem
+OD0436,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai
+OD0437,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0438,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore
+OD0439,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0440,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0441,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0442,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0443,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore
+OD0444,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0445,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai
+OD0446,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem
+OD0447,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0448,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore
+OD0449,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem
+OD0450,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0451,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli
+OD0452,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli
+OD0453,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai
+OD0454,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0455,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai
+OD0456,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai
+OD0457,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai
+OD0458,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore
+OD0459,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0460,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem
+OD0461,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai
+OD0462,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0463,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem
+OD0464,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli
+OD0465,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0466,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore
+OD0467,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0468,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli
+OD0469,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai
+OD0470,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli
+OD0471,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai
+OD0472,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai
+OD0473,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli
+OD0474,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem
+OD0475,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore
+OD0476,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore
+OD0477,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai
+OD0478,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0479,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem
+OD0480,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0481,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai
+OD0482,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0483,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0484,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai
+OD0485,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai
+OD0486,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli
+OD0487,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0488,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem
+OD0489,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0490,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai
+OD0491,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore
+OD0492,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem
+OD0493,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem
+OD0494,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli
+OD0495,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai
+OD0496,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai
+OD0497,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem
+OD0498,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai
+OD0499,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai
+OD0500,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli
+OD0501,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai
+OD0502,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem
+OD0503,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai
+OD0504,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai
+OD0505,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli
+OD0506,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai
+OD0507,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore
+OD0508,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai
+OD0509,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli
+OD0510,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai
+OD0511,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai
+OD0512,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli
+OD0513,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli
+OD0514,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai
+OD0515,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli
+OD0516,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore
+OD0517,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore
+OD0518,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem
+OD0519,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai
+OD0520,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0521,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem
+OD0522,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem
+OD0523,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai
+OD0524,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem
+OD0525,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai
+OD0526,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0527,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai
+OD0528,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0529,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0530,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli
+OD0531,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli
+OD0532,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0533,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0534,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli
+OD0535,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai
+OD0536,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0537,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai
+OD0538,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0539,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli
+OD0540,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem
+OD0541,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0542,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0543,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem
+OD0544,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0545,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0546,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0547,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai
+OD0548,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0549,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0550,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem
+OD0551,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai
+OD0552,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0553,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai
+OD0554,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem
+OD0555,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore
+OD0556,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0557,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0558,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli
+OD0559,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai
+OD0560,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0561,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem
+OD0562,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore
+OD0563,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai
+OD0564,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0565,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli
+OD0566,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli
+OD0567,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0568,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai
+OD0569,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai
+OD0570,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore
+OD0571,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem
+OD0572,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0573,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0574,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0575,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai
+OD0576,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0577,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0578,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0579,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0580,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0581,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0582,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0583,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0584,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0585,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0586,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0587,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0588,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore
+OD0589,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0590,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0591,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem
+OD0592,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0593,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai
+OD0594,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai
+OD0595,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0596,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0597,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0598,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore
+OD0599,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0600,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem 
+OD0601,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0602,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai
+OD0603,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem
+OD0604,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai
+OD0605,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai
+OD0606,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem
+OD0607,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore
+OD0608,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0609,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0610,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai
+OD0611,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai
+OD0612,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0613,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0614,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai
+OD0615,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli
+OD0616,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai
+OD0617,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0618,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai
+OD0619,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai
+OD0620,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore
+OD0621,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0622,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0623,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli
+OD0624,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0625,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0626,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0627,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0628,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0629,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore
+OD0630,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0631,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0632,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli
+OD0633,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem
+OD0634,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0635,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem
+OD0636,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0637,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem
+OD0638,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai
+OD0639,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai
+OD0640,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli
+OD0641,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai
+OD0642,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem
+OD0643,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli
+OD0644,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai
+OD0645,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore
+OD0646,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem
+OD0647,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0648,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem
+OD0649,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0650,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli
+OD0651,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore
+OD0652,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai
+OD0653,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0654,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0655,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0656,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0657,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli
+OD0658,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0659,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0660,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0661,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0662,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0663,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0664,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0665,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0666,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0667,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0668,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0669,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0670,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai
+OD0671,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli
+OD0672,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai
+OD0673,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0674,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli
+OD0675,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0676,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0677,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai
+OD0678,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai
+OD0679,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore
+OD0680,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai
+OD0681,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai
+OD0682,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai
+OD0683,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai
+OD0684,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore
+OD0685,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai
+OD0686,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore
+OD0687,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai
+OD0688,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai
+OD0689,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore
+OD0690,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore
+OD0691,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore
+OD0692,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore
+OD0693,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore
+OD0694,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore
+OD0695,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem
+OD0696,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem
+OD0697,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai
+OD0698,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem
+OD0699,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai
+OD0700,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai
+OD0701,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Coimbatore
+OD0702,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Chennai
+OD0703,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Chennai
+OD0704,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Tiruchirappalli
+OD0705,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Coimbatore
+OD0706,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Madurai
+OD0707,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Tiruchirappalli
+OD0708,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Coimbatore
+OD0709,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Coimbatore
+OD0710,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0711,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0712,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Tiruchirappalli
+OD0713,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Coimbatore
+OD0714,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Coimbatore
+OD0715,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Tiruchirappalli
+OD0716,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0717,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Chennai
+OD0718,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Coimbatore
+OD0719,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Madurai
+OD0720,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Salem
+OD0721,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Salem
+OD0722,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0723,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Salem
+OD0724,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Salem
+OD0725,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Coimbatore
+OD0726,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0727,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0728,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0729,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Madurai
+OD0730,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Chennai
+OD0731,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Madurai
+OD0732,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Tiruchirappalli
+OD0733,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Madurai
+OD0734,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0735,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Salem
+OD0736,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Chennai
+OD0737,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0738,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Coimbatore
+OD0739,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0740,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0741,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0742,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0743,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Coimbatore
+OD0744,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0745,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Madurai
+OD0746,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Salem
+OD0747,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0748,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Coimbatore
+OD0749,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Salem
+OD0750,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0751,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Tiruchirappalli
+OD0752,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Tiruchirappalli
+OD0753,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Madurai
+OD0754,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0755,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Chennai
+OD0756,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Madurai
+OD0757,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Chennai
+OD0758,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Coimbatore
+OD0759,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0760,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Salem
+OD0761,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Chennai
+OD0762,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0763,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Salem
+OD0764,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Tiruchirappalli
+OD0765,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0766,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Coimbatore
+OD0767,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0768,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Tiruchirappalli
+OD0769,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Madurai
+OD0770,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Tiruchirappalli
+OD0771,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Madurai
+OD0772,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Madurai
+OD0773,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Tiruchirappalli
+OD0774,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Salem
+OD0775,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Coimbatore
+OD0776,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Coimbatore
+OD0777,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Chennai
+OD0778,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0779,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Salem
+OD0780,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0781,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Chennai
+OD0782,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0783,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0784,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Chennai
+OD0785,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Chennai
+OD0786,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Tiruchirappalli
+OD0787,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0788,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Salem
+OD0789,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0790,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Chennai
+OD0791,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Coimbatore
+OD0792,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Salem
+OD0793,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Salem
+OD0794,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Tiruchirappalli
+OD0795,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Chennai
+OD0796,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Madurai
+OD0797,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Salem
+OD0798,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Chennai
+OD0799,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Madurai
+OD0800,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Tiruchirappalli
+OD0801,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Chennai
+OD0802,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Salem
+OD0803,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Chennai
+OD0804,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Madurai
+OD0805,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Tiruchirappalli
+OD0806,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Madurai
+OD0807,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Coimbatore
+OD0808,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Chennai
+OD0809,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Tiruchirappalli
+OD0810,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Madurai
+OD0811,CUST0001,Harish,Bread,Butter,,16-06-2025,Tamil Nadu,Madurai
+OD0812,CUST0002,Sudha,Wheat Flour,,Eggs,23-06-2025,Tamil Nadu,Tiruchirappalli
+OD0813,CUST0003,Hussain,Pepsi,,Coke,05-07-2025,Tamil Nadu,Tiruchirappalli
+OD0814,CUST0004,Meena,Lays,Biscuit,,11-07-2025,Tamil Nadu,Madurai
+OD0815,CUST0005,Ajay,Milk,Paneer,,17-07-2025,Tamil Nadu,Tiruchirappalli
+OD0816,CUST0006,Priya,Chicken,Rice,,23-07-2025,Tamil Nadu,Coimbatore
+OD0817,CUST0007,Ram,Horlicks,Boost,,04-08-2025,Tamil Nadu,Coimbatore
+OD0818,CUST0008,Anita,Oil,Salt,Sugar,09-08-2025,Tamil Nadu,Salem
+OD0819,CUST0009,Ravi,Paneer,,Coke,15-08-2025,Tamil Nadu,Chennai
+OD0820,CUST0010,Kiran,Pepsi,Lays,,21-08-2025,Tamil Nadu,Coimbatore
+OD0821,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Salem
+OD0822,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Salem
+OD0823,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Chennai
+OD0824,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Salem
+OD0825,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Madurai
+OD0826,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Madurai
+OD0827,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Madurai
+OD0828,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0829,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0830,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Tiruchirappalli
+OD0831,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Tiruchirappalli
+OD0832,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0833,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0834,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Tiruchirappalli
+OD0835,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Madurai
+OD0836,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Coimbatore
+OD0837,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Chennai
+OD0838,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Salem
+OD0839,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Tiruchirappalli
+OD0840,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Salem
+OD0841,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0842,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0843,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Salem
+OD0844,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0845,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0846,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0847,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Madurai
+OD0848,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0849,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Madurai
+OD0850,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Salem
+OD0851,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Madurai
+OD0852,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Coimbatore
+OD0853,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Madurai
+OD0854,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Salem
+OD0855,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Coimbatore
+OD0856,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0857,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Tiruchirappalli
+OD0858,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Tiruchirappalli
+OD0859,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Chennai
+OD0860,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Chennai
+OD0861,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Salem
+OD0862,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Coimbatore
+OD0863,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Chennai
+OD0864,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Madurai
+OD0865,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Tiruchirappalli
+OD0866,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Tiruchirappalli
+OD0867,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0868,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Madurai
+OD0869,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Madurai
+OD0870,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Coimbatore
+OD0871,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Salem
+OD0872,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Salem
+OD0873,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0874,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0875,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Chennai
+OD0876,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0877,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Chennai
+OD0878,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0879,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0880,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0881,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0882,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0883,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0884,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0885,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0886,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0887,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0888,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Coimbatore
+OD0889,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0890,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Coimbatore
+OD0891,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Salem
+OD0892,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Salem
+OD0893,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Chennai
+OD0894,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Madurai
+OD0895,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0896,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0897,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Tiruchirappalli
+OD0898,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Coimbatore
+OD0899,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Salem
+OD0900,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Salem 
+OD0901,CUST0003,Hussain,Fish,Salt,Biscuit,30-04-2025,Tamil Nadu,Chennai
+OD0902,CUST0007,Ram,,Chicken,Butter,10-06-2025,Tamil Nadu,Madurai
+OD0903,CUST0007,Ram,Lays,Oil,,21-05-2025,Tamil Nadu,Salem
+OD0904,CUST0003,Hussain,Coke,Paneer,Sugar,14-06-2025,Tamil Nadu,Madurai
+OD0905,CUST0005,Ajay,Wheat Flour,,Horlicks,01-02-2025,Tamil Nadu,Chennai
+OD0906,CUST0001,Harish,Milk,Bread,Butter,12-03-2025,Tamil Nadu,Salem
+OD0907,CUST0004,Meena,Pepsi,,Red Chili Powder,05-07-2025,Tamil Nadu,Coimbatore
+OD0908,CUST0009,Ravi,Rice,Oil,Sugar,25-01-2025,Tamil Nadu,Madurai
+OD0909,CUST0010,Kiran,,Eggs,Milk,17-05-2025,Tamil Nadu,Chennai
+OD0910,CUST0002,Sudha,Biscuit,Horlicks,,30-03-2025,Tamil Nadu,Madurai
+OD0911,CUST0006,Priya,Lays,Pepsi,Bread,15-07-2025,Tamil Nadu,Chennai
+OD0912,CUST0008,Anita,Paneer,Coke,,02-05-2025,Tamil Nadu,Salem
+OD0913,CUST0005,Ajay,Wheat Flour,Oil,Milk,25-06-2025,Tamil Nadu,Coimbatore
+OD0914,CUST0010,Kiran,Fish,Biscuit,,11-08-2025,Tamil Nadu,Madurai
+OD0915,CUST0001,Harish,Rice,Salt,Sugar,18-02-2025,Tamil Nadu,Tiruchirappalli
+OD0916,CUST0009,Ravi,Horlicks,,Boost,22-03-2025,Tamil Nadu,Madurai
+OD0917,CUST0002,Sudha,Bread,Butter,Paneer,09-01-2025,Tamil Nadu,Coimbatore
+OD0918,CUST0007,Ram,Pepsi,Coke,,03-06-2025,Tamil Nadu,Madurai
+OD0919,CUST0004,Meena,Chicken,,Eggs,28-07-2025,Tamil Nadu,Chennai
+OD0920,CUST0003,Hussain,Turmeric Powder,,Red Chili Powder,24-02-2025,Tamil Nadu,Coimbatore
+OD0921,CUST0008,Anita,Milk,,Bread,06-03-2025,Tamil Nadu,Salem
+OD0922,CUST0006,Priya,Boost,Horlicks,Biscuit,25-05-2025,Tamil Nadu,Chennai
+OD0923,CUST0010,Kiran,,Fish,Rice,07-04-2025,Tamil Nadu,Tiruchirappalli
+OD0924,CUST0001,Harish,Bread,,Butter,09-07-2025,Tamil Nadu,Coimbatore
+OD0925,CUST0009,Ravi,Pepsi,Lays,,19-06-2025,Tamil Nadu,Coimbatore
+OD0926,CUST0007,Ram,Paneer,Sugar,Oil,05-08-2025,Tamil Nadu,Coimbatore
+OD0927,CUST0003,Hussain,Wheat Flour,Rice,,30-01-2025,Tamil Nadu,Salem
+OD0928,CUST0005,Ajay,,Eggs,Milk,18-03-2025,Tamil Nadu,Tiruchirappalli
+OD0929,CUST0002,Sudha,Horlicks,,Boost,12-05-2025,Tamil Nadu,Coimbatore
+OD0930,CUST0004,Meena,Coke,,Pepsi,21-06-2025,Tamil Nadu,Chennai
+OD0931,CUST0006,Priya,Butter,Bread,,02-04-2025,Tamil Nadu,Tiruchirappalli
+OD0932,CUST0008,Anita,Fish,,Chicken,10-02-2025,Tamil Nadu,Tiruchirappalli
+OD0933,CUST0010,Kiran,Rice,Wheat Flour,,27-03-2025,Tamil Nadu,Salem
+OD0934,CUST0001,Harish,,Milk,Paneer,18-07-2025,Tamil Nadu,Coimbatore
+OD0935,CUST0009,Ravi,Oil,Salt,Sugar,01-06-2025,Tamil Nadu,Salem
+OD0936,CUST0007,Ram,Biscuit,,Horlicks,06-05-2025,Tamil Nadu,Madurai
+OD0937,CUST0003,Hussain,Pepsi,Lays,Bread,30-07-2025,Tamil Nadu,Salem
+OD0938,CUST0005,Ajay,Boost,,Horlicks,11-04-2025,Tamil Nadu,Chennai
+OD0939,CUST0002,Sudha,Butter,Paneer,,20-02-2025,Tamil Nadu,Madurai
+OD0940,CUST0004,Meena,,Eggs,Chicken,08-08-2025,Tamil Nadu,Tiruchirappalli
+OD0941,CUST0006,Priya,Red Chili Powder,Turmeric Powder,,14-03-2025,Tamil Nadu,Madurai
+OD0942,CUST0008,Anita,Coke,,Pepsi,27-06-2025,Tamil Nadu,Salem
+OD0943,CUST0010,Kiran,Milk,Bread,Butter,20-04-2025,Tamil Nadu,Tiruchirappalli
+OD0944,CUST0001,Harish,Salt,,Sugar,29-05-2025,Tamil Nadu,Chennai
+OD0945,CUST0009,Ravi,,Rice,Wheat Flour,12-07-2025,Tamil Nadu,Coimbatore
+OD0946,CUST0007,Ram,Paneer,Biscuit,Oil,28-02-2025,Tamil Nadu,Salem
+OD0947,CUST0003,Hussain,Lays,Pepsi,,25-03-2025,Tamil Nadu,Coimbatore
+OD0948,CUST0005,Ajay,Horlicks,Boost,,06-06-2025,Tamil Nadu,Salem
+OD0949,CUST0002,Sudha,Milk,,Eggs,14-04-2025,Tamil Nadu,Coimbatore
+OD0950,CUST0004,Meena,Bread,Butter,,23-05-2025,Tamil Nadu,Tiruchirappalli
+OD0951,CUST0001,Harish,Rice,Milk,,05-06-2025,Tamil Nadu,Coimbatore
+OD0952,CUST0002,Sudha,Bread,Butter,Paneer,12-06-2025,Tamil Nadu,Chennai
+OD0953,CUST0003,Hussain,Pepsi,Lays,,18-06-2025,Tamil Nadu,Coimbatore
+OD0954,CUST0004,Meena,Chicken,,Eggs,02-07-2025,Tamil Nadu,Chennai
+OD0955,CUST0005,Ajay,Horlicks,Boost,,08-07-2025,Tamil Nadu,Tiruchirappalli
+OD0956,CUST0006,Priya,Milk,Biscuit,,14-07-2025,Tamil Nadu,Salem
+OD0957,CUST0007,Ram,Oil,Salt,Sugar,20-07-2025,Tamil Nadu,Tiruchirappalli
+OD0958,CUST0008,Anita,Paneer,,Coke,03-08-2025,Tamil Nadu,Coimbatore
+OD0959,CUST0009,Ravi,Lays,Pepsi,,11-08-2025,Tamil Nadu,Chennai
+OD0960,CUST0010,Kiran,Wheat Flour,Rice,,19-08-2025,Tamil Nadu,Coimbatore
+OD0961,CUST0001,Harish,Bread,,Butter,01-09-2025,Tamil Nadu,Chennai
+OD0962,CUST0002,Sudha,Milk,,Eggs,07-09-2025,Tamil Nadu,Salem
+OD0963,CUST0003,Hussain,Coke,Pepsi,,12-09-2025,Tamil Nadu,Salem
+OD0964,CUST0004,Meena,Chicken,Biscuit,,18-09-2025,Tamil Nadu,Chennai
+OD0965,CUST0005,Ajay,Boost,Horlicks,,25-09-2025,Tamil Nadu,Salem
+OD0966,CUST0006,Priya,Rice,Milk,,07-06-2025,Tamil Nadu,Salem
+OD0967,CUST0007,Ram,Bread,Butter,,15-06-2025,Tamil Nadu,Salem
+OD0968,CUST0008,Anita,Wheat Flour,,Eggs,22-06-2025,Tamil Nadu,Tiruchirappalli
+OD0969,CUST0009,Ravi,Pepsi,,Coke,03-07-2025,Tamil Nadu,Chennai
+OD0970,CUST0010,Kiran,Lays,Biscuit,,09-07-2025,Tamil Nadu,Chennai
+OD0971,CUST0001,Harish,Milk,Paneer,,16-07-2025,Tamil Nadu,Tiruchirappalli
+OD0972,CUST0002,Sudha,Chicken,Rice,,21-07-2025,Tamil Nadu,Madurai
+OD0973,CUST0003,Hussain,Horlicks,Boost,,01-08-2025,Tamil Nadu,Coimbatore
+OD0974,CUST0004,Meena,Oil,Salt,Sugar,06-08-2025,Tamil Nadu,Tiruchirappalli
+OD0975,CUST0005,Ajay,Paneer,,Coke,12-08-2025,Tamil Nadu,Coimbatore
+OD0976,CUST0006,Priya,Pepsi,Lays,,18-08-2025,Tamil Nadu,Coimbatore
+OD0977,CUST0007,Ram,Wheat Flour,Rice,,25-08-2025,Tamil Nadu,Chennai
+OD0978,CUST0008,Anita,Bread,,Butter,02-09-2025,Tamil Nadu,Madurai
+OD0979,CUST0009,Ravi,Milk,,Eggs,06-09-2025,Tamil Nadu,Coimbatore
+OD0980,CUST0010,Kiran,Coke,Pepsi,,11-09-2025,Tamil Nadu,Madurai
+OD0981,CUST0001,Harish,Chicken,Biscuit,,17-09-2025,Tamil Nadu,Chennai
+OD0982,CUST0002,Sudha,Boost,Horlicks,,24-09-2025,Tamil Nadu,Madurai
+OD0983,CUST0003,Hussain,Rice,Milk,,08-06-2025,Tamil Nadu,Chennai
+OD0984,CUST0004,Meena,Bread,Butter,,13-06-2025,Tamil Nadu,Coimbatore
+OD0985,CUST0005,Ajay,Wheat Flour,,Eggs,20-06-2025,Tamil Nadu,Madurai
+OD0986,CUST0006,Priya,Pepsi,,Coke,04-07-2025,Tamil Nadu,Coimbatore
+OD0987,CUST0007,Ram,Lays,Biscuit,,10-07-2025,Tamil Nadu,Chennai
+OD0988,CUST0008,Anita,Milk,Paneer,,15-07-2025,Tamil Nadu,Madurai
+OD0989,CUST0009,Ravi,Chicken,Rice,,22-07-2025,Tamil Nadu,Coimbatore
+OD0990,CUST0010,Kiran,Horlicks,Boost,,02-08-2025,Tamil Nadu,Coimbatore
+OD0991,CUST0001,Harish,Oil,Salt,Sugar,07-08-2025,Tamil Nadu,Coimbatore
+OD0992,CUST0002,Sudha,Paneer,,Coke,13-08-2025,Tamil Nadu,Coimbatore
+OD0993,CUST0003,Hussain,Pepsi,Lays,,19-08-2025,Tamil Nadu,Coimbatore
+OD0994,CUST0004,Meena,Wheat Flour,Rice,,26-08-2025,Tamil Nadu,Coimbatore
+OD0995,CUST0005,Ajay,Bread,,Butter,03-09-2025,Tamil Nadu,Salem
+OD0996,CUST0006,Priya,Milk,,Eggs,08-09-2025,Tamil Nadu,Salem
+OD0997,CUST0007,Ram,Coke,Pepsi,,13-09-2025,Tamil Nadu,Chennai
+OD0998,CUST0008,Anita,Chicken,Biscuit,,19-09-2025,Tamil Nadu,Salem
+OD0999,CUST0009,Ravi,Boost,Horlicks,,26-09-2025,Tamil Nadu,Madurai
+OD1000,CUST0010,Kiran,Rice,Milk,,09-06-2025,Tamil Nadu,Chennai
